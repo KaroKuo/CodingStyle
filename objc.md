@@ -14,7 +14,7 @@ Model
 
 *.h
 ---
-//todo
+* 巨集(MACRO)部分，請以全大寫撰寫，例如 #define APP_VERSION 10
 
 *.m
 ---
