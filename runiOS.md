@@ -14,11 +14,11 @@
 	* `如果`在抓下來的project目錄下，有 `Podfile` 這個檔案
     	* 抓下來的project
 	   		* `pod install`
-    	* 待跑完以後 執行 
-	   		* `抓下來的{projectName}.xcworkspace`    
+    	* 待跑完以後,執行
+	   		* `{projectName}.xcworkspace`    
 
 
-	* `否則` 雙擊 抓下來的{projectName}.xcodeproj
+	* `否則` 執行{projectName}.xcodeproj
 
 
 + build
