@@ -51,5 +51,17 @@
 * [popcorn time](http://popcorn-time.se)
 
 ### 操作
----
+
+* 截圖
+	* `command + shift + 3` 截全螢幕
+	* `command + shift + 4` 可拖拉指定範圍
+	* `command + shift + 4` 然後按一下 `space` 鍵, 以視窗為單位截圖
+	* dropbox整合很方便
+
+* 檔案移動
+	* 拖拉都一樣
+		* 拖過去, 放掉左鍵之前按住 `option` (複製過去)
+	* 複製貼上
+		* `command + c` & `command + v`
+		* 貼上時 `option + command + v` , 則移除原本來源檔案,就是`貼上剪下`拉(順序不同)		
 
