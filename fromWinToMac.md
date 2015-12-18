@@ -2,10 +2,10 @@
 ===
 
 * 可以先打開app store 更新作業系統跟其他軟體
-	* ctrol + space   (這個搜尋叫Spotlight)
+	* ctrl + space   (這個搜尋叫Spotlight)
 	* 然後key in `app store`
 	* tip: 你還可以輸入東西，譬如說 `3USD`
-
+	* 進階推薦：[Alfred](https://www.alfredapp.com/) (free)
 
 ### APP
 ---
@@ -15,6 +15,7 @@
 * [歐路辭典](https://itunes.apple.com/tw/app/eudic-ou-lu-ci-dian-mian-fei-ban/id434350458?l=zh&mt=12)
 * [iOS device當延伸螢幕](http://www.duetdisplay.com)
 * [feedly](https://itunes.apple.com/tw/app/feedly.-read-more-know-more./id865500966?l=zh&mt=12)
+	* 瀏覽器有外掛（搭配瀏覽器服用較佳，瀏覽器可簡體翻繁體）
 * [pocket](https://itunes.apple.com/tw/app/pocket/id568494494?l=zh&mt=12)
 	* 瀏覽器有外掛
 * [Dr. Cleaner](https://itunes.apple.com/tw/app/dr.-cleaner-ying-die-he-ji/id921458519?l=zh&mt=12)
@@ -30,10 +31,21 @@
 * [Sip](https://itunes.apple.com/tw/app/sip/id507257563?l=zh&mt=12)
 * [dropbox](https://www.dropbox.com/install)
 * [monity](https://itunes.apple.com/tw/app/monity/id915542151?l=zh&mt=12)
-* 
+* [Reeder](http://reederapp.com/)
+	* 老牌看RSS神器（可搭配iPhone app）
+* [Things](https://culturedcode.com/things/)
+	* 老牌to-do（可搭配iPhone app）
+* [1Password](https://agilebits.com/onepassword/mac)
+	* 儲存所有密碼神器（所有你想得到的密碼）（至今最值得購入的app）
+* [Monosnap](https://monosnap.com/welcome)
+	* 截圖
 
 ### Programing
 * [source tree](https://www.sourcetreeapp.com)
+* [Dash](https://kapeli.com/dash)
+	* snippet
+* [Textexpander](https://smilesoftware.com/textexpander)
+	* snippet（功能較靈活）
 
 #### Backend
 * [懶人環境 docker](https://docs.docker.com/mac/step_one/)
@@ -46,10 +58,14 @@
 #### iOS
 * Xcode 跟 cocoapods就不多提了
 * [PaintCode 2](https://itunes.apple.com/tw/app/paintcode-2/id808809998?l=zh&mt=12)
+* [AppCode](https://www.jetbrains.com/objc/)
+	* 也可寫ios app的IDE（JetBrains出品不解釋）
 
 #### for fun
 * [popcorn time](http://popcorn-time.se)
-
+* [Boom](http://www.globaldelight.com/boom/index.php)
+	* 提升mac音量（可在預設最大音量上再加大）與設定音場
+	* 可等等聖誕節特價
 ### 操作
 
 * 截圖
