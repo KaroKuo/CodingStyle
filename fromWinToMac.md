@@ -81,3 +81,17 @@
 		* `command + c` & `command + v`
 		* 貼上時 `option + command + v` , 則移除原本來源檔案,就是`貼上剪下`拉(順序不同)		
 
+* finder 開啟或關閉顯示隱藏檔案
+	* 開啟顯示
+		1. 開啟terminal 輸入 defaults write com.apple.finder AppleShowAllFiles YES
+		2. 重新啟動finder (option + 右鍵 -> 重新啟動)
+	* 關閉顯示
+		如同開啟顯示, AppleShowAllFiles後面改NO
+
+* 其他快速鍵
+	* 同行開頭 - `command + ⬅️`
+	* 同行結尾 - `command + ➡️`
+	* PageUp - `fn + ⬆️`
+	* PageDown - `fn + ⬇️`
+
+
